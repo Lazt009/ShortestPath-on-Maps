@@ -49,3 +49,9 @@ We used **dijkstra's shortest path** algorithm to find the shortest path between
 This project was completed by **Nikeshsingh Baghel**, **Mohit Shingane** and **Nikhil likhar** from computer science branch in **Shri Ramdeobaba college of engineering and management** under the guidance of **Dr. Manoj B. Chandak (Ph.D CSE)-
 Head, department of Computer Science**.
 
+# Input and Output Examples
+
+**Home page**
+https://github.com/NikeshBaghel/ShortestPath-on-Maps/issues/1#issue-732377794
+
+
