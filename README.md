@@ -59,5 +59,8 @@ Head, department of Computer Science**.
 ### Giving Input
 <img width="960" alt="2" src="https://user-images.githubusercontent.com/71268351/97589829-0205a000-1a24-11eb-83d9-bce1332f61bf.PNG">
 
+### Output
+<img width="960" alt="4" src="https://user-images.githubusercontent.com/71268351/97590057-3da06a00-1a24-11eb-9937-4cafe45e741c.PNG">
+
 
 
