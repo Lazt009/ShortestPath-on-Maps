@@ -52,6 +52,8 @@ Head, department of Computer Science**.
 # Input and Output Examples
 
 **Home page**
-https://github.com/NikeshBaghel/ShortestPath-on-Maps/issues/1#issue-732377794
+[
+<img width="960" alt="1" src="https://user-images.githubusercontent.com/71268351/97589152-34fb6400-1a23-11eb-9c07-7be8bdd27aba.PNG">
+](url)
 
 
