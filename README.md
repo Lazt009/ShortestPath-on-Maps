@@ -51,9 +51,13 @@ Head, department of Computer Science**.
 
 # Input and Output Examples
 
-**Home page**
+### Home page
 [
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/71268351/97589152-34fb6400-1a23-11eb-9c07-7be8bdd27aba.PNG">
 ](url)
+
+### Giving Input
+<img width="960" alt="2" src="https://user-images.githubusercontent.com/71268351/97589829-0205a000-1a24-11eb-83d9-bce1332f61bf.PNG">
+
 
 
